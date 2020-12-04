@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "46e7a79d_fcedfcaa",
+        "filename": "debian/changelog",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000106
+      },
+      "writtenOn": "2020-12-04T01:59:15Z",
+      "side": 1,
+      "message": "包名对不上，应改为deepin-wallpapers-nonfree",
+      "range": {
+        "startLine": 1,
+        "startChar": 7,
+        "endLine": 1,
+        "endChar": 17
+      },
+      "revId": "e803598a6864280fe438c0bca5eb5707f06e6245",
+      "serverId": "7c03bcd7-3a90-48d7-8881-a48a22a829d2",
+      "unresolved": true
+    }
+  ]
+}
