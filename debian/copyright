@@ -1,0 +1,15 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: deepin-wallpapers-nonfree
+Source: <url://example.com>
+
+Files: *
+Copyright: 2020 Deepin Technology Co., Ltd.
+License: CC BY-NC-ND 4.0
+
+Files: debian/*
+Copyright: 2016 Deepin Packages Builder <packages@linuxdeepin.com>
+License: CC BY-NC-ND 4.0
+ You are free to:
+ Share — copy and redistribute the material in any medium or format
+ The licensor cannot revoke these freedoms as long as you follow the license terms.
+ Public License version can be found in "https://creativecommons.org/licenses/by-nc-nd/4.0/".
