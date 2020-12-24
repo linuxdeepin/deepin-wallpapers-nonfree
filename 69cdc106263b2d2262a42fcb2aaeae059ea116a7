@@ -22,6 +22,30 @@
       "revId": "69cdc106263b2d2262a42fcb2aaeae059ea116a7",
       "serverId": "7c03bcd7-3a90-48d7-8881-a48a22a829d2",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "687fdc99_0998cfd6",
+        "filename": "debian/copyright",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2020-12-24T06:24:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f4759971_1019e42a",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 17
+      },
+      "revId": "69cdc106263b2d2262a42fcb2aaeae059ea116a7",
+      "serverId": "7c03bcd7-3a90-48d7-8881-a48a22a829d2",
+      "unresolved": false
     }
   ]
 }
