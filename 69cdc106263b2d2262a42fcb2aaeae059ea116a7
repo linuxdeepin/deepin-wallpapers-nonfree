@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f4759971_1019e42a",
+        "filename": "debian/copyright",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000106
+      },
+      "writtenOn": "2020-12-24T03:24:13Z",
+      "side": 1,
+      "message": "这里是模板",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 17
+      },
+      "revId": "69cdc106263b2d2262a42fcb2aaeae059ea116a7",
+      "serverId": "7c03bcd7-3a90-48d7-8881-a48a22a829d2",
+      "unresolved": true
+    }
+  ]
+}
