@@ -1,3 +1,9 @@
+deepin-wallpapers-nonfree (1.5) unstable; urgency=medium
+
+  * rm Deepin-Technology-Brand-Log.jpg.
+
+ -- TagBuilder <lichenggang@uniontech.com>  Wed, 10 Mar 2021 20:58:34 +0800
+
 deepin-wallpapers-nonfree (1.4) stable; urgency=medium
 
   * add Deepin-Technology-Brand-Logo.jpg
