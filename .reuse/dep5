@@ -22,7 +22,7 @@ Copyright: UnionTech Software Technology Co., Ltd.
 License: GPL-3.0-or-later
 
 # ci
-Files: .github/*
+Files: .github/* .obs/*
 Copyright: None
 License: CC0-1.0
 
