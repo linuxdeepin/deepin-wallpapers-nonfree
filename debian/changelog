@@ -1,3 +1,9 @@
+deepin-wallpapers-nonfree (1.7.10) unstable; urgency=medium
+
+  * chore: 新增壁纸图片 (#7)
+
+ -- fuleyi <fuleyi@uniontech.com>  Fri, 09 Aug 2024 14:24:01 +0800
+
 deepin-wallpapers-nonfree (1.7.9) unstable; urgency=medium
 
   * add nonfree wallpapers.
