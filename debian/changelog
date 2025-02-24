@@ -1,3 +1,9 @@
+deepin-wallpapers-nonfree (1.8.0) unstable; urgency=medium
+
+  * release 1.8.0
+
+ -- zhangkun <zhangkun2@uniontech.com>  Mon, 24 Feb 2025 13:10:04 +0800
+
 deepin-wallpapers-nonfree (1.7.10) unstable; urgency=medium
 
   * chore: 新增壁纸图片 (#7)
